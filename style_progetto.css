@@ -4,10 +4,32 @@
     margin:0;
     padding:20px;
     text-align: center;
-}
-
-h1 {
     color:#0284c7;
     margin-bottom:10px;
+}
+
+.menu {
+    dysplay:flex;
+    gap:50px;
+    margin-top: 40px;
+}
+
+.menu-card {
+    font-size: 20px;
+    font-weight: bold;
+    color: #0369a1;
+    margin-bottom: 15px;
+}
+
+.menu-img {
+    width: 250px;
+    height: 180px;
+    border-radius: 10px;
+}
+
+.piede {
+    margin-top: 60px;
+    font-size: 10px;
+    color: #64748b;
 }
 
